@@ -7,3 +7,5 @@ Blah blah
 Another last line goes here.
 
 Continuing from the old story
+
+Blah blah
